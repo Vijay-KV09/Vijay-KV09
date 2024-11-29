@@ -8,7 +8,8 @@ I am Vijay Kumar, a 4th-year Computer Science and Engineering (CSE) student spec
 - **Specialization:** Big Data Analytics
 
 ## Interests
-- DevOps and Software Engineering 
+- DevOps and Software Engineering
+- Full Stack Development
 - Big Data Analytics
 
 ## Skills
@@ -17,10 +18,7 @@ I am Vijay Kumar, a 4th-year Computer Science and Engineering (CSE) student spec
   - Hadoop(HDFS,MapReduce)
   - Apache Spark
   - Sql
-  - Cassandra Nosql
 - **DevOps Tools:**
-  - Ansible
-  - Terraform
   - CI/CD
   - AWS
   - Docker
@@ -28,14 +26,17 @@ I am Vijay Kumar, a 4th-year Computer Science and Engineering (CSE) student spec
   - Shell Scripting
   - Kubernetes
 - **Programming Languages:**
-  - Python for DevOps
+  - Python
   - HTML,CSS JAVASCRIPT
-  - Java for Mobile App Development
+  - Java
   - C++ for Competitive Programming 
 - **Frameworks**
-  - Bootstrap
-  - Flask
-  - Django
+  - **FrontEnd**
+    - React.js
+    - Vue.js
+  - **BackEnd**
+    - Express.js
+    - Django   
 
 ## Contact
 - **Email:**  vkvpenmatsa803@gmail.com
