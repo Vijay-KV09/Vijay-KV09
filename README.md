@@ -40,5 +40,6 @@ I am Vijay Kumar, a 4th-year Computer Science and Engineering (CSE) student spec
 ## Contact
 - **Email:**  vkvpenmatsa803@gmail.com
 - **LinkedIn:** www.linkedin.com/in/vijay-kumar-varma100
+- **Portfolio:** https://vijay-kv09.github.io/portfolio
 
 Feel free to explore my repositories to learn more about my work and interests some of them are private and can be accessed by joining to collaboration. 
