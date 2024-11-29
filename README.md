@@ -1,16 +1,44 @@
-## Hi there 👋
+# Vijay Kumar
 
-<!--
-**Vijay-KV09/Vijay-KV09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am Vijay Kumar, a 4th-year Computer Science and Engineering (CSE) student specializing in Big Data Analytics. Over the course of my studies, I have completed various projects and gained significant insights in this field. While I am deeply interested in DevOps, my interests span across all fields of CSE.
 
-Here are some ideas to get you started:
+## Education
+- **Degree:** B.Tech in Computer Science and Engineering
+- **Specialization:** Big Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- DevOps and Software Engineering 
+- Big Data Analytics
+
+## Skills
+- **Big Data Technologies**
+  - Python for Data Science
+  - Hadoop(HDFS,MapReduce)
+  - Apache Spark
+  - Sql
+  - Cassandra Nosql
+- **DevOps Tools:**
+  - Ansible
+  - Terraform
+  - CI/CD
+  - AWS
+  - Docker
+  - Jenkins
+  - Shell Scripting
+  - Kubernetes
+- **Programming Languages:**
+  - Python for DevOps
+  - HTML,CSS JAVASCRIPT
+  - Java for Mobile App Development
+  - C++ for Competitive Programming 
+- **Frameworks**
+  - Bootstrap
+  - Flask
+  - Django
+
+## Contact
+- **Email:**  vkvpenmatsa803@gmail.com
+- **LinkedIn:** www.linkedin.com/in/vijay-kumar-varma100
+
+Feel free to explore my repositories to learn more about my work and interests some of them are private and can be accessed by joining to collaboration. 
