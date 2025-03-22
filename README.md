@@ -1,7 +1,7 @@
 # Vijay Kumar
 
 ## About Me
-I am Vijay Kumar, a 4th-year Computer Science and Engineering (CSE) student specializing in Big Data Analytics. Over the course of my studies, I have completed various projects and gained significant insights in this field. While I am deeply interested in DevOps, my interests span across all fields of CSE.
+I am Vijay Kumar, a 4th-year Computer Science and Engineering (CSE) student specializing in Big Data Analytics. Over the course of my studies, I have completed various projects and gained significant insights in this field. While I am deeply interested in DevOps and Cloud Computing, my interests span across all fields of CSE.
 
 ## Education
 - **Degree:** B.Tech in Computer Science and Engineering
@@ -18,13 +18,26 @@ I am Vijay Kumar, a 4th-year Computer Science and Engineering (CSE) student spec
   - Hadoop(HDFS,MapReduce)
   - Apache Spark
   - Sql
-- **DevOps Tools:**
+- **DevOps Tools:** 
   - CI/CD
+  - GitHub Actions 
   - AWS
+  - Azure
   - Docker
   - Jenkins
+  - Circle CI
+  - Terraform
+  - Ansible 
   - Shell Scripting
+  - Argo CD
   - Kubernetes
+  - Openshift
+  - Istio
+  - Prometheus
+  - Grafana
+  - ELK Stack
+  - Sonarqube
+  - Trivy
 - **Programming Languages:**
   - Python
   - HTML,CSS JAVASCRIPT
@@ -33,10 +46,13 @@ I am Vijay Kumar, a 4th-year Computer Science and Engineering (CSE) student spec
 - **Frameworks**
   - **FrontEnd**
     - React.js
+    - Angular.js
     - Vue.js
   - **BackEnd**
     - Express.js
-    - Django   
+    - Django
+    - Spring
+    - Springboot 
 
 ## Contact
 - **Email:**  vkvpenmatsa803@gmail.com
